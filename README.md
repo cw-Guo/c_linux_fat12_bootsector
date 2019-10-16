@@ -1,4 +1,4 @@
-# c_process_fat12_booter
+# c_fat12_bootsector
 using c/linux to process a fat12 img 用c语言实现对fat12文件系统的读取
 ### 一个FAT12 格式的引导程序
 ##### Chengwei Guo
